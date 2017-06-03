@@ -2,6 +2,7 @@
 
 # TODO fix codice multiriga
 # TODO creare css
+# TODO multiprocesso
 
 import os
 
